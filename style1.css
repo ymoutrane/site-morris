@@ -1,0 +1,25 @@
+#area-chart,
+#line-chart,
+#bar-chart,
+#stacked,
+#pie-chart{
+  min-height: 250px;
+}
+
+.label-label-success{
+
+	color: red;
+	font-weight: bold;
+	font-size: large;
+	font-style: italic;
+}
+
+h3 {
+
+
+	color: blue;
+	font-weight: bold;
+	font-size: x-large;
+	font-style: italic;
+	text-align: center;
+}
